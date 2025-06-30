@@ -24,7 +24,7 @@
 
 ## 🔍 Sources of Data
 
-To ensure diversity, quality, and coverage across literary domains, the dataset was compiled from three main sources:
+To ensure diversity, quality, and coverage across literary domains, the dataset was compiled from two main sources:
 
 ### 1. Summarization Websites and Pages
 Human-written summaries were collected via web scraping (`BeautifulSoup4`) from:
