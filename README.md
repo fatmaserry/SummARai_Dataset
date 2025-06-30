@@ -29,7 +29,6 @@ To ensure diversity, quality, and coverage across literary domains, the dataset 
 ### 1. Summarization Websites and Pages
 Human-written summaries were collected via web scraping (`BeautifulSoup4`) from:
 - [Rajooshow](https://rajooshow.com/)
-- [KHKitab](https://www.khkitab.com/)
 - [Engzketab](https://engzketab.com/)
 
 ### 2. Arabic Books
